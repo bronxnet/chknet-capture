@@ -9,7 +9,7 @@ from datetime import datetime
 
 
 # BOT
-CHKNET = "https://web2.chknet.eu/"
+CHKNET = "https://web.chknet.network/"
 enabled = True
 channel_name = "#unix"
 bot_name = "%s%i" % (''.join(random.choices(
